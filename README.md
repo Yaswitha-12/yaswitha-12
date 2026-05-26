@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yaswitha 👋
 
-<!--
-**Yaswitha-12/yaswitha-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Student
+- Learning React, Node.js, Python
+- Interested in Web Development
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- To-Do App
+- Student Management System
+
+## Contact
+- LinkedIn
+- Email
